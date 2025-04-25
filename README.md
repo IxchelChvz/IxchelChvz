@@ -91,6 +91,11 @@ I’m a full-stack developer from Venezuela, passionate about building modern, f
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=IxchelChvz&repo=DAW&theme=tokyonight" alt="GitHub Stats" />
     </a>
   </p>
+  <p align="center">
+    <a href="https://github.com/IxchelChvz/blank-app">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=IxchelChvz&repo=blank-app&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+  </p>
 </div>
 </details>
 
