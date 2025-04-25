@@ -8,7 +8,7 @@
 
 </p>
 
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <img align="right" height="190" src="./assets/ixchel_pixel.png"  />
 I’m a full-stack developer from Venezuela, passionate about building modern, functional, and accessible web applications. I enjoy working in teams, applying agile methodologies, and creating solutions on both the client and server sides. 🚀
 
 
@@ -70,10 +70,11 @@ I’m a full-stack developer from Venezuela, passionate about building modern, f
 ⚡ Fun fact: I love logic games, solving problems, and turning ideas into code!
 <div style="position: relative; display: inline-block;" align="center">
   
-  <img src="https://c.tenor.com/3wpZl17CXB4AAAAi/gwo-gzlwong.gif" 
-       alt="Cat" 
-       width="90" 
-       style="position: absolute; top: -40px; left: 50%; transform: translateX(-50%);" />
+  <img src="./assets/gwo-gzlwong.gif" 
+     alt="Cat" 
+     width="90" 
+     style="position: absolute; top: -40px; left: 50%; transform: translateX(-50%);" />
+
 
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IxchelChvz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" 
